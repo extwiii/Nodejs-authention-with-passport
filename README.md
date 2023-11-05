@@ -1,5 +1,4 @@
 # Nodejs-authention-with-passport
-Demo : https://extwiii-passport-local.herokuapp.com/
 
 This repository serves as an example of a basic Node.js application which is using Passport as the authentication middleware for authenticating against a locally configured Mongo backend
 Steps to run the app
